@@ -11,5 +11,6 @@ The Simple Calculation App is a console-based application written in C that perf
 1. Enter a whole number when prompted.
 2. Choose an operation from the available options.
 3. View the result displayed on the console.
+
 ![codeCalculator](https://github.com/catalinispas1/CodeCalculator/assets/129887780/b127a4cf-e650-4b13-aa75-c366566c5635)
 
